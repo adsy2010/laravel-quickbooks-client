@@ -1,5 +1,5 @@
 {
-  "name": "spinen/laravel-quickbooks-client",
+  "name": "adsy2010/laravel-quickbooks-client",
   "description": "SPINEN's Laravel Client for QuickBooks.",
   "keywords": [
     "quickbooks",
@@ -12,6 +12,10 @@
     {
       "name": "Jimmy Puckett",
       "email": "jimmy.puckett@spinen.com"
+    },
+    {
+      "name": "Adam Wright",
+      "email": "adsy2010@gmail.com"
     }
   ],
   "require": {
